@@ -1,0 +1,19 @@
+.heading{
+    width: 70%;
+    font-size: 25px;
+}
+body{
+    background-image: url("629278-abstract-3D.jpg");
+}
+#Items{
+  color: rgb(252, 0, 0);
+  font-weight: 1000;
+}
+
+#Webcam_view{
+    width: 350px;
+    height: 300px;
+    border-width: 5px;
+    border-color: rgb(255, 0, 0);
+    border-style:dotted;
+}
